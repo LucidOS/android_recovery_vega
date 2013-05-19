@@ -29,3 +29,5 @@ BOARD_HAS_FLIPPED_SCREEN := true
 #BOARD_HAS_LARGE_FILESYSTEM := true
 
 #DEVICE_RESOLUTION := 480x800
+
+BOARD_CUSTOM_RECOVERY_KEYMAPPING := ../../device/pantech/ef12s/default_recovery_ui.c
